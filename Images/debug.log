@@ -1,0 +1,1 @@
+[0622/214106:ERROR:file_io_win.cc(163)] CreateFile C:\windows\TEMP\Crashpad\settings.dat: Access is denied. (0x5)

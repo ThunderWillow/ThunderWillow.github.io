@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+background-image:url("Images/Background.jpg");
+}
+
+
+p{
+  color:black
+}
+
+h1{
+  color:black
+  font-family: 'Alegreya', serif;
+  font-weight: 400;
+
+}
+
+h4{
+  color:black
+}
+
+li{
+  color:black
+}
+
+h3{
+  color:black
+}
+
+img{
+  width:300px;
+  padding: 25px;
+  border: 25px grey;
+  margin: 25px;
+}
